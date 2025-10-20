@@ -1,5 +1,19 @@
 /* index.html */
+.indexHeader {
+    font-family: Arial, "Times New Roman", sans-serif;
+    text-align: center;
+    margin: 16px 800px;
+    padding: 8px;
+    background-color: orangered;
+    color: white;
+}
 
+.indexList {
+    font-family: Arial, "Times New Roman", sans-serif;
+    background-color: lightblue;
+    margin: 16px 700px;
+    border: 8px solid whitesmoke;
+}
 
 /* famous-chicken-adobo.html */
 
